@@ -1,0 +1,18 @@
+{
+  "name": "mouse-keyboard-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "leGlobal": "npm install --global --production windows-build-tools",
+    "leStart": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.2.0",
+    "robotjs": "^0.5.1"
+  }
+}
