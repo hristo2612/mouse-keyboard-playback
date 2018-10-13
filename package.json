@@ -4,8 +4,7 @@
   "description": "",
   "main": "start.js",
   "scripts": {
-    "leGlobal": "npm install --global --production windows-build-tools",
-    "leStart": "node start",
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
