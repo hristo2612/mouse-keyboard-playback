@@ -22,6 +22,17 @@ ioHook.on("keypress", event => {
   actionsArray.push({type: 'keyboard', event});
   // result: {keychar: 'f', keycode: 19, rawcode: 15, type: 'keypress'}
 });
+
+ioHook.on("keydown", event => {
+  console.log(event);
+  actionsArray.push({type: 'keydown', event});
+});
+
+ioHook.on("keyup", event => {
+  console.log(event);
+  actionsArray.push({type: 'keyup', event});
+});
+
 //Register and stark hook 
 ioHook.start();
 
