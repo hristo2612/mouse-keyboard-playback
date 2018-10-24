@@ -1,1 +1,442 @@
-[{"type":"mouse","event":{"button":0,"clicks":0,"x":774,"y":771,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":780,"y":771,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":783,"y":773,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":787,"y":773,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":790,"y":773,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":792,"y":773,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":797,"y":773,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":799,"y":772,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":802,"y":771,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":805,"y":771,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":809,"y":769,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":812,"y":768,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":818,"y":767,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":829,"y":763,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":836,"y":759,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":845,"y":758,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":851,"y":754,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":860,"y":751,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":869,"y":747,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":881,"y":741,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":890,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":899,"y":736,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":908,"y":734,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":916,"y":732,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":923,"y":729,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":929,"y":728,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":934,"y":725,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":942,"y":721,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":949,"y":716,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":953,"y":705,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":961,"y":688,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":967,"y":678,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":975,"y":666,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":981,"y":657,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":984,"y":645,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":988,"y":639,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":992,"y":625,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":996,"y":605,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":998,"y":581,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1000,"y":557,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1003,"y":533,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1003,"y":515,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1003,"y":501,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1004,"y":490,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1004,"y":482,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1004,"y":477,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1004,"y":469,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1002,"y":463,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":999,"y":454,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":997,"y":450,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":994,"y":445,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":987,"y":432,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":982,"y":425,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":977,"y":421,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":970,"y":415,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":965,"y":411,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":956,"y":405,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":951,"y":401,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":945,"y":397,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":938,"y":392,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":931,"y":389,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":920,"y":387,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":903,"y":383,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":890,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":874,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":852,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":831,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":810,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":789,"y":381,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":775,"y":382,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":758,"y":386,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":744,"y":390,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":732,"y":396,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":726,"y":399,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":716,"y":407,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":709,"y":414,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":706,"y":421,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":704,"y":429,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":702,"y":441,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":700,"y":452,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":700,"y":468,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":700,"y":481,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":700,"y":500,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":700,"y":519,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":701,"y":530,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":703,"y":549,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":707,"y":560,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":709,"y":569,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":712,"y":578,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":714,"y":584,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":717,"y":591,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":720,"y":595,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":723,"y":602,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":725,"y":604,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":729,"y":609,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":737,"y":618,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":744,"y":626,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":757,"y":636,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":766,"y":644,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":781,"y":654,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":795,"y":662,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":807,"y":670,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":822,"y":681,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":834,"y":687,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":851,"y":698,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":863,"y":703,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":880,"y":712,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":891,"y":716,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":908,"y":720,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":919,"y":724,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":936,"y":730,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":948,"y":734,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":954,"y":735,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":962,"y":735,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":968,"y":737,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":971,"y":737,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":975,"y":737,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":978,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":979,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":980,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":981,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":983,"y":738,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":985,"y":740,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":986,"y":741,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":989,"y":742,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":990,"y":743,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":999,"y":749,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1002,"y":752,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1005,"y":757,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1008,"y":761,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1011,"y":768,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1016,"y":772,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1019,"y":777,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1020,"y":781,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1024,"y":788,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1024,"y":790,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":795,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":797,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":798,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":799,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":801,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":802,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":804,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":808,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":813,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":817,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":821,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":827,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":831,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1027,"y":837,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1024,"y":844,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1023,"y":848,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1020,"y":855,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1017,"y":859,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1012,"y":866,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1005,"y":869,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":1001,"y":874,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":991,"y":879,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":987,"y":884,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":980,"y":887,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":976,"y":889,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":969,"y":892,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":966,"y":895,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":964,"y":896,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":959,"y":897,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":958,"y":897,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":957,"y":899,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":956,"y":899,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":953,"y":899,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":952,"y":900,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":950,"y":900,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":946,"y":900,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":943,"y":900,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":940,"y":900,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":938,"y":899,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":935,"y":898,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":932,"y":895,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":929,"y":894,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":927,"y":891,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":922,"y":888,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":919,"y":887,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":917,"y":885,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":914,"y":882,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":913,"y":881,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":913,"y":880,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":911,"y":879,"type":"mousemove"}},{"type":"mouse","event":{"button":0,"clicks":0,"x":910,"y":879,"type":"mousemove"}},{"type":"keydown","event":{"shiftKey":false,"altKey":false,"ctrlKey":true,"metaKey":false,"keycode":29,"rawcode":162,"type":"keydown"}},{"type":"keydown","event":{"shiftKey":false,"altKey":false,"ctrlKey":true,"metaKey":false,"keycode":46,"rawcode":67,"type":"keydown"}}]
+[
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 823,
+      "y": 932,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 828,
+      "y": 925,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 832,
+      "y": 916,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 833,
+      "y": 907,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 833,
+      "y": 894,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 835,
+      "y": 878,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 835,
+      "y": 859,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 838,
+      "y": 838,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 840,
+      "y": 821,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 842,
+      "y": 802,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 848,
+      "y": 783,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 852,
+      "y": 766,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 854,
+      "y": 745,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 861,
+      "y": 731,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 865,
+      "y": 717,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 868,
+      "y": 705,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 870,
+      "y": 694,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 874,
+      "y": 685,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 874,
+      "y": 671,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 876,
+      "y": 658,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 878,
+      "y": 646,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 880,
+      "y": 635,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 881,
+      "y": 624,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 881,
+      "y": 616,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 607,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 596,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 583,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 574,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 566,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 562,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 561,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 558,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 557,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 556,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 883,
+      "y": 555,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 882,
+      "y": 552,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 882,
+      "y": 551,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 881,
+      "y": 547,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 879,
+      "y": 543,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 879,
+      "y": 540,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 878,
+      "y": 534,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 878,
+      "y": 530,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 878,
+      "y": 526,
+      "type": "mousemove"
+    }
+  },
+  {
+    "type": "mouse_move",
+    "event": {
+      "button": 0,
+      "clicks": 0,
+      "x": 878,
+      "y": 523,
+      "type": "mousemove"
+    }
+  }
+]
