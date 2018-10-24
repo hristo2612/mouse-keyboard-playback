@@ -16,6 +16,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "iohook": "^0.2.0",
-    "robotjs": "^0.5.1"
+    "robotjs": "^0.5.1",
+    "sleep": "^5.2.3"
   }
 }
